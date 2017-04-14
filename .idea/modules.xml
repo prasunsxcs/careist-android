@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Careist.iml" filepath="$PROJECT_DIR$/Careist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Careist/Careist.iml" filepath="$PROJECT_DIR$/Careist/Careist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Careist/Careist-Careist.iml" filepath="$PROJECT_DIR$/Careist/Careist-Careist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beetlenut/beetlenut.iml" filepath="$PROJECT_DIR$/beetlenut/beetlenut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desmoke/desmoke.iml" filepath="$PROJECT_DIR$/desmoke/desmoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/varapplock/varapplock.iml" filepath="$PROJECT_DIR$/varapplock/varapplock.iml" />
+    </modules>
+  </component>
+</project>

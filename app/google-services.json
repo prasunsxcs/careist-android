@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718312980275",
+    "firebase_url": "https://careist-46253.firebaseio.com",
+    "project_id": "careist-46253",
+    "storage_bucket": "careist-46253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718312980275:android:1381a3ab4d320af0",
+        "android_client_info": {
+          "package_name": "com.example.invinciblesourav.careist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718312980275-3d13p7fdj7jh9p2fgluje8b5mutlgl2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invinciblesourav.careist",
+            "certificate_hash": "d7edbb1648eef03a50fe95a36e324d19aae9970e"
+          }
+        },
+        {
+          "client_id": "718312980275-qmciqiom8knrtflcbb0o78pnnaiff9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCERHZoqQyDe4h3h7QFIvSZOoxgSMh-mQM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718312980275-qmciqiom8knrtflcbb0o78pnnaiff9kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

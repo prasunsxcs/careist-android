@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Careist</string>
+    <string name="action_settings">Settings</string>
+    <string name="pas" />
+    <string name="country_prompt">Choose a location</string>
+
+
+    <string-array name="country_arrays">
+        <item>Entire region</item>
+        <item>Mukundapur</item>
+        <item>Behala</item>
+        <item>Kasba</item>
+        <item>Garia</item>
+        <item>Jadavpur</item>
+        <item>Golf Green</item>
+        <item>Rashbehari</item>
+    </string-array>
+</resources>
